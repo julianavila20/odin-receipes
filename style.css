@@ -1,0 +1,47 @@
+.header {
+
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    width: 2000px;
+    color: blanchedalmond;
+}
+
+header h1 : hover {
+    border-right: 4px solid #FA26A0;
+    background-color: #2FF3E0;
+}
+
+img {
+    width: 1600px;
+    width: 1700px;
+    margin-left: 140px;
+    margin-right: 160px;
+    border: dotted 5px black;
+    margin-bottom: 40px;
+}
+
+.tl{
+text-align: center;
+font-size: 50px;
+}
+
+center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
+nav li {
+
+display: inline-flex;
+margin-left:400px;
+margin-bottom: 40px;
+font-size: 32px;
+border: solid black 7px;
+background-color: chocolate;
+box-sizing: border-box;
+
+}
